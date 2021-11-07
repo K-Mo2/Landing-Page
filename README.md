@@ -1,14 +1,42 @@
+### Table of content
+
+\*[Overview](#overview)
+
+\*[Technologies used](#technologies-used)
+
+\*[Skills practised](#skills-practised)
+
+\*[Launch method](#launch-method)
+
+### Overview
+
+This is a basic Landing Page for practicing vanilla javascript and its core concepts 
+
+## Technologies used
+
+1- javascript
 
 
-This is  Udacity project 1 (Landing Page).
+## Skills practised
 
-The page shows some default sections that can be increased dynamically.
-by clicking on Create Section button
+1- Smooth scrolling 
 
-Every section whether it exists by default or dynamically added is appended to the navigation bar.
+2- section highlight on view
 
-The navigation bar is dynamic whereby the user can click on any section from the navigation bar
-and they well be dynamically directed with a smooth scroll to the chosen section.
+3- embeding html with vanilla javascript
 
-While scrolling the page a style is added the active or the visible section to the viewport
-and the style follows the visible section where the visible section is activated and the non visible section is deactivated.
+and much more core features of vanilla javascript
+
+
+### Launch method
+
+To run the project:
+
+1- Download or clone the project.
+
+2- Open your terminal in project directory.
+
+3- Type "code . "
+
+4- In VSCODE you click on live server
+
