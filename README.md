@@ -38,5 +38,9 @@ To run the project:
 
 3- Type "code . "
 
-4- In VSCODE you click on live server
+4- In VSCODE you click on live server 
+
+or
+
+4- Right click on the index.html file and choose open with browser (example: Googe Chrome).
 
